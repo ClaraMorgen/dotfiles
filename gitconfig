@@ -48,4 +48,10 @@
   mergeoptions = --no-edit
 [user]
 	email = clara_morgeneyer@web.de
-	name = Clara Morgeneyer
+	name = Clara
+	name = Clara
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
