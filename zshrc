@@ -39,3 +39,7 @@ prompt_context() {
     # prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
   fi
 }
+
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"

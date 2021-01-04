@@ -19,13 +19,17 @@
 		"public/packs",
 		"coverage"
 	],
-	"font_size": 19,
+	"font_size": 18,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 	],
-	"remember_open_files": false,
+	"install_prereleases":
+	[
+		"Babel"
+	],
+	"remember_open_files": true,
 	"rulers":
 	[
 		80

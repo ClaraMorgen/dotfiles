@@ -3,12 +3,17 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases":
+	[
+		"Babel"
+	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
 		"Emmet",
 		"ERB Snippets",
@@ -21,6 +26,7 @@
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop"
 	]
 }
