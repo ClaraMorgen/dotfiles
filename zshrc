@@ -43,3 +43,6 @@ prompt_context() {
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export PATH="/usr/local/opt/postgresql@12/bin:$PATH"
+export PATH="/usr/local/opt/postgresql@12/bin:$PATH"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
