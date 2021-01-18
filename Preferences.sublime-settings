@@ -24,6 +24,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"SublimeLinter"
 	],
 	"install_prereleases":
 	[
